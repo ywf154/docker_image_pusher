@@ -1,6 +1,6 @@
-nginx
+#nginx
 #支持私库
-hub.docker.com/repository/docker/ywf154/lms_django
-xhofe/alist:latest
+ywf154/task_django
+
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
