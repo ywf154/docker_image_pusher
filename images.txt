@@ -1,6 +1,6 @@
 #nginx
 #支持私库
 #python:3.12.1
-sha256:37ad260e5c59801058312cf4bec7655b7fdf3f31eb9fd65906a50568dd639942
+openjdk:17-jdk-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
