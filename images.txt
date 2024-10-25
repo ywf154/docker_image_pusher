@@ -1,6 +1,7 @@
 #nginx
 #支持私库
 #python:3.12.1
-openjdk:17-jdk-slim
+#openjdk:17-jdk-slim
+gmaslowski/jre:17
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
